@@ -1,0 +1,50 @@
+{
+  "owners": {
+    "Taleb12": {
+      "tg_id": 7372406242,
+      "payment_number": "01324136744",
+      "payment_method": "bKash",
+      "ipweb_accounts": ["Taleb12"]
+    },
+    "Mamun7949": {
+      "tg_id": 8720601302,
+      "payment_number": "01324136744",
+      "payment_method": "bKash",
+      "ipweb_accounts": ["Mamun7949"]
+    },
+    "Mdasif50": {
+      "tg_id": null,
+      "payment_number": "01602979123",
+      "payment_method": "bKash",
+      "ipweb_accounts": [
+        "Mdasif50",
+        "gg113354961357770487713",
+        "gg113771195880858471238"
+      ]
+    },
+    "mirazislam": {
+      "tg_id": 7708863201,
+      "payment_number": "01727924153",
+      "payment_method": "bKash",
+      "ipweb_accounts": ["mirazislam"]
+    },
+    "Sabbir7949": {
+      "tg_id": 8497672427,
+      "payment_number": "01747794935",
+      "payment_method": "bKash",
+      "ipweb_accounts": ["Sabbir7949"]
+    },
+    "Mdeyakubali": {
+      "tg_id": 8234395661,
+      "payment_number": "01318132556",
+      "payment_method": "Nagad",
+      "ipweb_accounts": ["Mdeyakubali"]
+    },
+    "Tawsik4568": {
+      "tg_id": null,
+      "payment_number": null,
+      "payment_method": null,
+      "ipweb_accounts": ["Tawsik4568"]
+    }
+  }
+}
